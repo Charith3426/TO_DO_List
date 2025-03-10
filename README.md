@@ -135,8 +135,3 @@ Code modularity and organization for easy expansion and maintenance.
 - and much more
 
 
-## Authors
-
-- [@MV4Tech](https://github.com/MV4Tech)
-- [@Nikola102](https://github.com/nikola104)
-
